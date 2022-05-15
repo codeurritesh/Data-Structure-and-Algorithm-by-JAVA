@@ -49,4 +49,3 @@ class Delete_linkedlist
 		System.out.println("Linked list deleted");
 	}
 }
-// This code is contributed by Rajat Mishra
