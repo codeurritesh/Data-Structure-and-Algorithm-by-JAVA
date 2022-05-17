@@ -43,7 +43,7 @@ class Delete_linkedlist
 		llist.push(12);
 		llist.push(1);
 
-		System.out.println("Deleting the list");
+		System.out.println("Deleting the list: ");
 		llist.deleteList();
 
 		System.out.println("Linked list deleted");
